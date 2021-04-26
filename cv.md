@@ -39,3 +39,17 @@
 *Skills of using Java libraries.* 
 
 *Development environment: Intellij IDEA, Android studio*
+
+### education
+
+**2019 It-academy java core**
+
+**2013 Minsk Institute of Management
+economic law
+LanguagesEdit**
+
+*Belarusian — Native*
+
+*English — B1 — Intermediate*
+
+*Polish — A2 — Elementary*
